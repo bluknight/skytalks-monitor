@@ -5,7 +5,6 @@ repo: skytalks-monitor # The name of this repository
 sites:
   - name: Skytalks SSL Website (v4)
     url: https://skytalks.info
-    ipv6: false
   - name: Skytalks SSL Website (v6)
     url: https://skytalks.info
     ipv6: true
