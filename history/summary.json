@@ -4,19 +4,19 @@
     "url": "https://skytalks.info",
     "icon": "https://icons.duckduckgo.com/ip3/skytalks.info.ico",
     "slug": "skytalks-ssl-website-v4",
-    "status": "down",
-    "uptime": "85.16%",
-    "uptimeDay": "85.16%",
-    "uptimeWeek": "85.16%",
-    "uptimeMonth": "85.16%",
-    "uptimeYear": "85.16%",
-    "time": 1635,
-    "timeDay": 1635,
-    "timeWeek": 1635,
-    "timeMonth": 1635,
-    "timeYear": 1635,
+    "status": "up",
+    "uptime": "80.60%",
+    "uptimeDay": "80.60%",
+    "uptimeWeek": "80.60%",
+    "uptimeMonth": "80.60%",
+    "uptimeYear": "80.60%",
+    "time": 1422,
+    "timeDay": 1422,
+    "timeWeek": 1422,
+    "timeMonth": 1422,
+    "timeYear": 1422,
     "dailyMinutesDown": {
-      "2024-07-23": 36
+      "2024-07-23": 49
     }
   },
   {
@@ -25,18 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/skytalks.info.ico",
     "slug": "skytalks-ssl-website-v6",
     "status": "up",
-    "uptime": "95.27%",
-    "uptimeDay": "95.27%",
-    "uptimeWeek": "95.27%",
-    "uptimeMonth": "95.27%",
-    "uptimeYear": "95.27%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1801,
     "timeDay": 1801,
     "timeWeek": 1801,
     "timeMonth": 1801,
     "timeYear": 1801,
-    "dailyMinutesDown": {
-      "2024-07-23": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
